@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Coffee.pick()&apos; to &apos;take&apos;&#x0D;&#x0A;- Original project: &apos;Java221209_OOP_HasA&apos;&#x0D;&#x0A;- Original element: &apos;Coffee.pick()&apos;&#x0D;&#x0A;- Renamed element: &apos;Coffee.take()&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;pick&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{Coffee.java[Coffee~pick" name="take" references="true" stamp="1670564728440" version="1.0"/>
+</session>

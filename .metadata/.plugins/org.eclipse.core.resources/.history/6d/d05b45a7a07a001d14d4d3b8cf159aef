@@ -1,0 +1,7 @@
+package com.yeon.eh.main;
+
+public class EHMain {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,24 @@
+package com.yeon.eh.main;
+
+import java.util.Scanner;
+
+public class EHMain {
+	public static void main(String[] args) {
+		Scanner k = new Scanner(System.in);
+		System.out.print("정수 1 : ");
+		int a = k.nextInt();
+		System.out.print("정수 2 : ");
+		int b = k.nextInt();
+		int c = a + b;
+		int d = a - b;
+		int e = a * b;
+		int f = a / b;
+		
+		System.out.printf("%d + %d = %d", a, b, c);
+		System.out.printf("%d - %d = %d", a, b, d);
+		System.out.printf("%d * %d = %d", a, b, e);
+		System.out.printf("%d / %d = %d", a, b, f);
+				
+		
+	}
+}

@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\seoyeon\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+376889268.index
+984516908.index
+2012239131.index
+2462333464.index
+3813954698.index
+2140453209.index
+3987567200.index

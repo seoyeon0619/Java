@@ -1,0 +1,6 @@
+1671171934103	Rename local variable 'c'
+1671172063692	Rename local variable 'avg'
+1671176483079	Rename type 'Subway'
+1671176520753	Rename field 'name'
+1671176783394	Rename type 'SubwayInfo'
+1671176833802	Rename field 'stationName'
